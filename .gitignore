@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data directories
+data/
+staged_candidates/
+out/
+results/
+
+# Credentials (never commit)
+*credentials*.json
+*.p12
+service-account*.json

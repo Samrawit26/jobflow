@@ -1,0 +1,36 @@
+Generic single-database configuration for Alembic.
+
+This directory contains the Alembic migration environment for JobFlow.
+
+## Usage
+
+### Create a new migration
+```bash
+alembic revision --autogenerate -m "description of changes"
+```
+
+### Apply migrations
+```bash
+alembic upgrade head
+```
+
+### Rollback one migration
+```bash
+alembic downgrade -1
+```
+
+### View migration history
+```bash
+alembic history
+```
+
+### View current revision
+```bash
+alembic current
+```
+
+## Notes
+
+- Database URL must be set via environment variable or in alembic.ini
+- All models must be imported in env.py for autogenerate to work
+- Migration files are stored in alembic/versions/

@@ -1,0 +1,46 @@
+ANUSHA KAYAM
+Power BI Developer | Data Analyst
+anusha@example.com | 555-123-4567 | Remote
+
+PROFESSIONAL SUMMARY
+Experienced Power BI Developer and Data Analyst with 4 years of expertise in business intelligence, data visualization, and analytics. Proficient in Power BI, SQL, DAX, and Azure cloud platform. Proven track record of delivering actionable insights through interactive dashboards and reports.
+
+TECHNICAL SKILLS
+- Business Intelligence: Power BI, Tableau, Excel, Power Query
+- Databases: SQL Server, Azure SQL Database, MySQL
+- Languages: SQL, DAX, MDX, Python
+- Cloud: Azure, Azure Data Factory, Azure Synapse
+- ETL: SSIS, Azure Data Factory
+- Other: Git, JIRA, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Power BI Developer
+Tech Solutions Inc. | Remote | Jan 2022 - Present
+- Designed and developed 50+ Power BI dashboards and reports for executive leadership
+- Implemented complex DAX calculations for financial KPIs and business metrics
+- Optimized data models reducing report load time by 60%
+- Led migration of legacy reports to Power BI cloud service
+- Collaborated with stakeholders to gather requirements and deliver solutions
+
+Data Analyst
+Data Insights Corp. | Remote | Jun 2020 - Dec 2021
+- Created interactive visualizations using Power BI and Tableau
+- Wrote complex SQL queries to extract and transform data from multiple sources
+- Performed data quality analysis and validation
+- Automated reporting processes saving 20 hours per week
+- Trained team members on Power BI best practices
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Example | 2016 - 2020
+
+CERTIFICATIONS
+- Microsoft Certified: Data Analyst Associate (Power BI)
+- Microsoft Certified: Azure Data Fundamentals
+
+PROJECTS
+- Sales Performance Dashboard: Built comprehensive Power BI dashboard tracking sales metrics across 10 regions with drill-through capabilities
+- Financial Reporting System: Designed automated financial reporting solution using Power BI and Azure SQL Database
+- Customer Analytics Platform: Developed customer segmentation analysis using Power BI and Python integration
